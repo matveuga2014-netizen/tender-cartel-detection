@@ -15,6 +15,11 @@ zakupki_with_collusion.xlsx
 part12345678.xlsx
 cleaned_dataset.csv
 
+# ---- Presentations, PDFs, intermediate JSON (kept local, not in repo) ----
+*.pptx
+*.pdf
+финал222.json
+
 # ---- Backups ----
 *.bak
 
