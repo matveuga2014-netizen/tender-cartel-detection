@@ -1,0 +1,39 @@
+# ---- Large data files (not pushed to GitHub) ----
+# GitHub rejects files > 100 MB. Data is kept locally / separately.
+features.csv
+polniy_pochti.xlsx
+*.csv
+*.xlsx
+*.xls
+
+# Intermediate parser data
+contracts_part*.xlsx
+contracts_merged*.xlsx
+suppliers*.xlsx
+contracts_with_supplier_data.xlsx
+zakupki_with_collusion.xlsx
+part12345678.xlsx
+cleaned_dataset.csv
+
+# ---- Backups ----
+*.bak
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- Environments / secrets ----
+.env
+*.key
+secrets.json
+
+# ---- OS / editors ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

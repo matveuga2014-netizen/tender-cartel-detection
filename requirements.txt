@@ -1,0 +1,21 @@
+# Parsing and data collection
+requests
+beautifulsoup4
+ollama
+
+# Data processing
+pandas
+numpy
+openpyxl
+
+# Machine learning
+scikit-learn
+catboost
+lightgbm
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
