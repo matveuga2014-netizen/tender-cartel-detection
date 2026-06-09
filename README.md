@@ -63,13 +63,12 @@ The project consists of three Jupyter notebooks reflecting the stages of work:
 ├── Parser1.ipynb                 # Stage 1: data collection
 ├── Feature_engeneering1.ipynb    # Stage 2: feature engineering
 ├── Models_termpaper1.ipynb       # Stage 3: models and evaluation
-├── финал222.json                 # intermediate labeled data
-├── *.pptx                        # project presentations
 ├── requirements.txt              # Python dependencies
+├── .gitignore
 └── README.md
 ```
 
-> **Note on data.** Large files (`features.csv` ~118 MB,
+> **Note on data.** Large data files (`features.csv` ~118 MB,
 > `polniy_pochti.xlsx` ~26 MB) are not included in the repository due to
 > GitHub's 100 MB file-size limit. They can be reproduced by running the
 > notebooks in order, or provided separately on request.
